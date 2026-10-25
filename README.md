@@ -1,3 +1,15 @@
+# 最新目录页
+
+- [单页目录 PPT｜文字可编辑](lecture_agenda_v4/Course_Agenda.pptx)
+- [目录 PDF 预览](lecture_agenda_v4/Course_Agenda.pdf)
+- [已替换第2页目录的完整课件｜57页](lecture_agenda_v4/IEC_Lecture_With_New_Agenda.pptx)
+
+目录按两个课时组织为六部分：蒸发冷却基础、技术类型与工作原理、设备形式与运行模式、干燥地区工程案例、控制与节能评价、算力需求与风液融合。
+
+中文文字为Microsoft YaHei，英文和数字为Times New Roman。完整课件的其余页面及其备注保持上一版内容。
+
+---
+
 # 最新版：标识清理与讲稿问答修订
 
 ## 下载
