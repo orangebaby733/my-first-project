@@ -1,45 +1,24 @@
-# Latest version: Original Image Lecture
+# 最新版：标识清理与讲稿问答修订
 
-新版已按要求改为原报告PPT图片：不使用上一版校方模板、不自行重绘图表或编写公式。直接从用户提供的两个网页PDF提取1080×608原图，保留原报告版式、署名、水印与图内文字。
+## 下载
 
-## Downloads / 下载
+- [授课版 PPT｜57页](lecture_clean_v3/IEC_Clean_Lecture.pptx)
+- [PDF 预览](lecture_clean_v3/IEC_Clean_Lecture.pdf)
+- [逐页讲稿与参考解答 DOCX](lecture_clean_v3/IEC_Clean_Teaching_Guide.docx)
+- [网页1整理图片版｜37页](lecture_clean_v3/Web1_Clean_Slides.pptx)
+- [网页2整理图片版｜46页](lecture_clean_v3/Web2_Clean_Slides.pptx)
+- [全部新版文件 ZIP](lecture_clean_v3/IEC_Clean_Lecture_Package.zip)
 
-- [57页授课版 PPT：两个各40分钟课时](lecture_original_images/Original_Image_Lecture.pptx)
-- [57页授课版 PDF 预览](lecture_original_images/Original_Image_Lecture.pdf)
-- [逐页授课安排与讲稿 DOCX](lecture_original_images/Original_Image_Teaching_Guide.docx)
-- [网页一：37页完整原图 PPT](lecture_original_images/Web1_Original_Slides.pptx)
-- [网页二：46页完整原图 PPT](lecture_original_images/Web2_Original_Slides.pptx)
-- [新版全部文件 ZIP](lecture_original_images/Original_Image_Lecture_Package.zip)
+在文件页面点击 **Download raw file** 下载。请使用以上新版文件。
 
-在文件页点击 **Download raw file** 下载。
+## 本次更新
 
-授课版第1—25页为第一课时，第26—57页为第二课时。两份完整原图PPT分别保持各报告的图片顺序。原图可作为PPT对象移动、替换、排序，图内文字与公式不单独可编辑。图片中的原字体保持不变；PPT备注及后续新增文字默认英文为Times New Roman，中文为Microsoft YaHei。
+- 清理公众号与微信号水印、指定校名及校徽，三份PPT统一处理。
+- 保持原报告技术图文为主体，不新增技术图表和公式。清理后的页面重新封装为整页图片，课件不再嵌入原来带标识的图片。
+- 授课版仍为两个各40分钟的课时：第1—25页为第一课时，第26—57页为第二课时。
+- 保留的互动提问后补齐参考解答，共35处；PPT备注与Word讲稿同步。
+- 备注、讲稿可编辑；PPT页面图片可移动、替换和重新排序。新增英文默认Times New Roman，中文默认Microsoft YaHei。
 
-原始网页本次重试均返回403，因此实际使用用户提供的对应PDF中的原始图片。所有PPT已检查能正常渲染，且每一页嵌入图片的二进制内容与提取的原图相同。原报告数据和价格按其时间、工况及系统边界理解。
+原报告作者、题名与资料来源保留在备注和讲稿中。原报告参数、价格及性能结论按其工况、边界与时间背景理解。全部PPT已完成打开、渲染、页数、备注与文件完整性检查。
 
----
-
-## Previous version / 上一版
-
-# Indirect Evaporative Cooling Lecture
-
-《建筑环境与能源应用新技术》课程资料：间接蒸发冷却技术及其在数据中心中的应用。
-
-面向建环专业大四本科生，安排两个各约40分钟的主讲课时。PPT共52页：48页主讲及4页答疑、补充图示与参考资料。
-
-## Downloads
-
-- [Editable PowerPoint](lecture_materials/Indirect_Evaporative_Cooling_Lecture.pptx)
-- [PDF preview](lecture_materials/Indirect_Evaporative_Cooling_Preview.pdf)
-- [Teaching guide and speaker notes](lecture_materials/Teaching_Guide_and_Speaker_Notes.docx)
-- [All files as ZIP](lecture_materials/Cooling_Lecture_Package.zip)
-
-在GitHub文件页面点击 Download raw file 下载；PPTX和DOCX无需在线预览。
-
-## Notes
-
-使用用户提供的中国石油大学（华东）PPT模板，并依据用户提供的两份黄翔教授报告网页PDF及公开工程参考资料整理。原报告出处见课件参考资料页。
-
-可编辑文字指定为Microsoft YaHei（微软雅黑）。正文、公式、表格和重绘原理图可编辑；少量原文复杂图保留为图片。新增数值算例为教学假设，不是工程实测或厂家性能保证。
-
-逐页讲稿已嵌入PPT备注，同时提供独立DOCX。文件完整性校验见 lecture_materials/SHA256SUMS.txt。
+[查看以前版本记录](VERSION_HISTORY.md)
