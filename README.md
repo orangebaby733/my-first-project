@@ -1,3 +1,16 @@
+# 最新版：58页课件配套口语讲稿
+
+- [下载PPT｜58页备注均改为可直接照读的讲稿](lecture_read_aloud_v5/IEC_Read_Aloud_Notes.pptx)
+- [下载Word逐页讲稿](lecture_read_aloud_v5/IEC_Read_Aloud_Script.docx)
+
+以本次上传的58页IEC_Clean_Lecture.pptx为准，仅重写备注。用户封面、目录、章节过渡页、全部图文及页序保留，补齐原来空白的7页备注。
+
+备注共约1.6万字，使用连贯的课堂讲述，不包含备课提示、时长标记、参考解答标签或等待学生回答的互动指令。Word讲稿与PPT备注逐页一致，资料来源列于Word末尾。
+
+已核对页面XML和媒体文件与上传稿一致，58页PPT可正常打开。
+
+---
+
 # 最新目录页
 
 - [单页目录 PPT｜文字可编辑](lecture_agenda_v4/Course_Agenda.pptx)

@@ -1,0 +1,2 @@
+a656cc9dfa10475c6dc244d6d325e01e84f949cef3910dd4d1054c6e2c321cd0  IEC_Read_Aloud_Notes.pptx
+89e9885f34260c92ba2748c474ad3addc48cf6724404aebc6f811d69258ea4e9  IEC_Read_Aloud_Script.docx
